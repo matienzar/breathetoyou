@@ -1,0 +1,13 @@
+{
+    "helloWorld": "¡Hola Mundo!",
+    "title":"BreatheToYou",
+    "inspire":"Inspirar",
+    "expire":"Exhalar",
+    "hold":"Mantener la respiración",
+    "time":"Configuración (segundos)",
+    "refresh":"Refrescar configuración",
+    "timepending":"Tiempo restante",
+    "seconds":"segundos",
+    "play":"Play",
+    "stop":"Stop"
+}

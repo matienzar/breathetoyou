@@ -1,0 +1,22 @@
+{
+    "helloWorld": "Hello World!",
+    "title": "BreatheToYou",
+    "inspire":"Inspire",
+    "expire":"Exhale",
+    "hold":"Keep the breath",
+    "time":"Configuration (seconds)",
+    "refresh":"Refresh configuration",
+    "timepending":"Time pending",
+    "seconds":"seconds",
+    "play":"Play",
+    "stop":"Stop",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "@title": {
+          "description": "Application title"
+    },
+    "@refresh": {
+          "description": "Title on refresh icon button"
+    }
+}
