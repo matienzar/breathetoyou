@@ -2,6 +2,9 @@
 
 A project to test Flutter capabilities
 
+![Application](assets/img/app.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
